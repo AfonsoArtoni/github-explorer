@@ -41,8 +41,12 @@
 			</dict>
 		</dict>
 	</dict>
-	<key>NSLocationWhenInUseUsageDescription</key>
-	<string></string>
+  <key>ITSAppUsesNonExemptEncryption</key>
+  <false/>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Utilizamos sua localização para garantir que as notificações geolocalizadas sejam enviadas de forma correta pra você.</string>
+  <key>NSLocationWhenInUseUsageDescription</key>
+	<string>Utilizamos sua localização para garantir que as notificações geolocalizadas sejam enviadas de forma correta pra você.</string>
 	<key>UIAppFonts</key>
 	<array>
 		<string>AntDesign.ttf</string>
